@@ -6,7 +6,6 @@
 
 My algorithm problem answers.
 
-///티어 이미지
 ![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=akileuusa77)
 <!---
