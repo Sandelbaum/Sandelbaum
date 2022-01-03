@@ -4,7 +4,7 @@
 - 📫 How to reach me ...
 
 ![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=akileuusa77)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=temeraireeurus)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TemeraireEurus&show_icons=true&theme=radical)
 <!---
