@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TemeraireEurus
+- 👋 Hi, I’m Temeraire Eurus
 - 👀 I’m interested in hardwares and software development.
-- 🌱 I’m currently learning C Language.
+- 🌱 I’m currently learning C Language and Java Language.
 - 📫 How to reach me ...
 
 ![Solved.ac
