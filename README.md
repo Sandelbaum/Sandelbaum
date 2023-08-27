@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sandelbaum
+- 👋 Hi, I’m Sandel
 - 👀 I’m interested in hardwares and software development.
 - 🌱 I’m currently learning C Language and Rust.
 - 📫 How to reach me ...
